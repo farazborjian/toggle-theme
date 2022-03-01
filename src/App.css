@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.button {
+  border: none;
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  outline: none;
+}
+.container {
+  padding: 2rem;
+}
